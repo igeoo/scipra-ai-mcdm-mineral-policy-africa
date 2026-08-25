@@ -1,0 +1,73 @@
+{
+  "adjudication_grid": {
+    "maximum_possible_pro_fraction_across_grid_even_if_every_unresolved_record_is_pro": 0.2317351598173516,
+    "maximum_pro_fraction_among_labelled_across_grid": 0.12960760998810938,
+    "minimum_resistant_fraction_among_labelled_across_grid": 0.8703923900118906,
+    "reading_a_weights": [
+      0.4,
+      0.5,
+      0.6,
+      0.7,
+      0.8
+    ],
+    "scenarios": 35,
+    "thresholds": [
+      0.0,
+      0.1,
+      0.2,
+      0.3,
+      0.5,
+      0.75,
+      1.0
+    ]
+  },
+  "conservative_bounds": {
+    "final_maximum_pro_fraction_even_if_all_69_unresolved_are_pro": 0.16666666666666666,
+    "final_minimum_resistant_fraction_even_if_all_69_unresolved_are_pro": 0.8333333333333334,
+    "fraction_of_pass1_resistant_labels_that_must_flip_to_match_historical_pro_fraction": 0.7604166666666666,
+    "pass1_maximum_pro_fraction_even_if_all_nonpass1_records_are_pro": 0.2328767123287671,
+    "pass1_minimum_resistant_fraction_even_if_all_nonpass1_records_are_pro": 0.7671232876712328,
+    "pass1_nonpass1_records": 141,
+    "pass1_resistant_labels_that_must_flip_to_match_historical_pro_fraction_after_all_nonpass1_assigned_pro": 511,
+    "pass1_resistant_labels_that_must_flip_to_reach_simple_pro_majority_after_all_nonpass1_assigned_pro": 235
+  },
+  "final_reconstructed_ledger": {
+    "labelled": 807,
+    "pro_integration": 77,
+    "pro_integration_fraction": 0.09541511771995044,
+    "resistant": 730,
+    "resistant_fraction": 0.9045848822800495,
+    "unresolved": 69
+  },
+  "frozen_analysis_manifest_sha256": "cb280e4cb138b2f6bba48b24f0dcd7521c4cb821871846ceb70523a05a7acad5",
+  "frozen_analysis_ready_records": 876,
+  "historical_reported_distribution": {
+    "pro_integration": 71,
+    "pro_integration_fraction": 0.8160919540229885,
+    "resistant": 16
+  },
+  "independent_reading_a": {
+    "n": 873,
+    "pro_integration": 166,
+    "pro_integration_fraction": 0.19014891179839633,
+    "resistant": 707,
+    "resistant_fraction": 0.8098510882016037
+  },
+  "independent_reading_b": {
+    "n": 873,
+    "pro_integration": 122,
+    "pro_integration_fraction": 0.13974799541809851,
+    "resistant": 751,
+    "resistant_fraction": 0.8602520045819015
+  },
+  "interpretation": "The historical 71/16 distribution is not treated as falsified because the exact historical corpus and human label ledger are unavailable. This audit tests whether the resistant-dominant result of the independently reconstructed frozen corpus is an artifact of third-pass adjudication choices.",
+  "pass1": {
+    "labelled": 735,
+    "pro_integration": 63,
+    "pro_integration_fraction_among_labelled": 0.08571428571428572,
+    "resistant": 672,
+    "resistant_fraction_among_labelled": 0.9142857142857143
+  },
+  "source_phase_breakdown_rows": 2,
+  "stage": "static_stance_reversal_robustness_audit"
+}

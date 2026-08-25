@@ -1,0 +1,176 @@
+{
+  "corpus_membership_used_or_modified": false,
+  "fully_reproducible_components": [
+    "SIC arithmetic from documented P/L/U and alpha=0.30 beta=0.40 gamma=0.30",
+    "linear PCI with domain weights 0.30/0.35/0.35",
+    "weighted cross-domain standard deviation",
+    "RPCI raw = max(0, PCI - lambda*sigma)",
+    "RPCI normalised per SI Eq A.10 = raw/(1+lambda/2)",
+    "weighted-harmonic nonlinear PCI as currently implemented"
+  ],
+  "important_constraint": "No missing criterion-to-stakeholder mapping, sensitivity schedule, or manuscript value is back-filled by assumption. This audit marks under-specified components rather than manufacturing reproducibility.",
+  "rpci_consistency_audit": {
+    "finding": "Scenario A is explicitly acknowledged in the SI as 0.427 raw versus about 0.407 normalised. Applying the stated normalised A.10 equation to the documented B and C domain scores also yields values different from 0.638 and 0.752. The formula outputs are retained as authoritative computational results and manuscript-stated values are preserved separately for audit rather than forced to match.",
+    "scenario_validation_file": "scenario_formula_validation.csv"
+  },
+  "sic_verification": {
+    "NGO": {
+      "L": 0.8,
+      "P": 0.52,
+      "U": 0.7,
+      "absolute_difference": 0.0,
+      "calculated_sic": 0.686,
+      "manuscript_sic": 0.686
+    },
+    "community": {
+      "L": 0.92,
+      "P": 0.32,
+      "U": 0.95,
+      "absolute_difference": 1.1102230246251565e-16,
+      "calculated_sic": 0.7490000000000001,
+      "manuscript_sic": 0.749
+    },
+    "government": {
+      "L": 0.58,
+      "P": 0.82,
+      "U": 0.75,
+      "absolute_difference": 0.0,
+      "calculated_sic": 0.703,
+      "manuscript_sic": 0.703
+    },
+    "investor": {
+      "L": 0.65,
+      "P": 0.88,
+      "U": 0.82,
+      "absolute_difference": 0.0,
+      "calculated_sic": 0.77,
+      "manuscript_sic": 0.77
+    },
+    "labour": {
+      "L": 0.78,
+      "P": 0.75,
+      "U": 0.9,
+      "absolute_difference": 0.0,
+      "calculated_sic": 0.807,
+      "manuscript_sic": 0.807
+    }
+  },
+  "stage": "post_freeze_mcdm_and_index_formula_audit",
+  "swdc_equation_audit": {
+    "delta_used": 0.3,
+    "documented_equation": "W_a = W_0 * (1 + delta * SIC)",
+    "finding": "Applying one scalar SIC to every criterion and then renormalising multiplies all criteria by the same constant, so relative weights return exactly to W_0. A criterion-specific stakeholder/sensitivity mapping is required for non-trivial reweighting, but that mapping is not encoded in the current adjust_weights implementation.",
+    "published_example_cross_checks": {
+      "community_infrastructure_base_0_08_with_community_sic_raw": 0.097976,
+      "community_infrastructure_base_0_10_with_community_sic_raw": 0.12247,
+      "local_employment_base_0_15_with_community_sic_raw": 0.18370499999999998,
+      "local_employment_base_0_15_with_labour_sic_raw": 0.18631499999999998,
+      "note": "The narrative gives Community Infrastructure base weight as 0.10 in the investment vector but later describes 0.08 -> 0.099. The latter is close to the unnormalised scalar equation using 0.08; it is not consistent with the stated 0.10 base vector. Local Employment 0.15 -> 0.184 is close to a single unnormalised community-SIC adjustment, not to a fully renormalised multi-criterion vector.",
+      "published_community_infrastructure_adjusted_claim": 0.099,
+      "published_local_employment_adjusted_claim": 0.184
+    },
+    "reproducibility_status": "underdetermined_for_full_dynamic_criterion_vector",
+    "scalar_normalisation_demonstration": {
+      "NGO": {
+        "maximum_absolute_change_after_normalisation": 0.0,
+        "raw_adjusted_weights": {
+          "Community Infrastructure": 0.12058,
+          "Geological Feasibility": 0.18087,
+          "IRR": 0.24116,
+          "Local Employment": 0.18087,
+          "Market Stability": 0.18087,
+          "NPV": 0.30145
+        },
+        "renormalised_weights": {
+          "Community Infrastructure": 0.1,
+          "Geological Feasibility": 0.15,
+          "IRR": 0.2,
+          "Local Employment": 0.15,
+          "Market Stability": 0.15,
+          "NPV": 0.25
+        },
+        "scalar_sic": 0.686
+      },
+      "community": {
+        "maximum_absolute_change_after_normalisation": 0.0,
+        "raw_adjusted_weights": {
+          "Community Infrastructure": 0.12247000000000002,
+          "Geological Feasibility": 0.183705,
+          "IRR": 0.24494000000000005,
+          "Local Employment": 0.183705,
+          "Market Stability": 0.183705,
+          "NPV": 0.30617500000000003
+        },
+        "renormalised_weights": {
+          "Community Infrastructure": 0.1,
+          "Geological Feasibility": 0.15,
+          "IRR": 0.2,
+          "Local Employment": 0.15,
+          "Market Stability": 0.15,
+          "NPV": 0.25
+        },
+        "scalar_sic": 0.7490000000000001
+      },
+      "government": {
+        "maximum_absolute_change_after_normalisation": 0.0,
+        "raw_adjusted_weights": {
+          "Community Infrastructure": 0.12109000000000002,
+          "Geological Feasibility": 0.18163500000000002,
+          "IRR": 0.24218000000000003,
+          "Local Employment": 0.18163500000000002,
+          "Market Stability": 0.18163500000000002,
+          "NPV": 0.302725
+        },
+        "renormalised_weights": {
+          "Community Infrastructure": 0.1,
+          "Geological Feasibility": 0.15,
+          "IRR": 0.2,
+          "Local Employment": 0.15,
+          "Market Stability": 0.15,
+          "NPV": 0.25
+        },
+        "scalar_sic": 0.703
+      },
+      "investor": {
+        "maximum_absolute_change_after_normalisation": 0.0,
+        "raw_adjusted_weights": {
+          "Community Infrastructure": 0.12309999999999999,
+          "Geological Feasibility": 0.18464999999999998,
+          "IRR": 0.24619999999999997,
+          "Local Employment": 0.18464999999999998,
+          "Market Stability": 0.18464999999999998,
+          "NPV": 0.30774999999999997
+        },
+        "renormalised_weights": {
+          "Community Infrastructure": 0.1,
+          "Geological Feasibility": 0.15,
+          "IRR": 0.2,
+          "Local Employment": 0.15,
+          "Market Stability": 0.15,
+          "NPV": 0.25
+        },
+        "scalar_sic": 0.77
+      },
+      "labour": {
+        "maximum_absolute_change_after_normalisation": 0.0,
+        "raw_adjusted_weights": {
+          "Community Infrastructure": 0.12421,
+          "Geological Feasibility": 0.18631499999999998,
+          "IRR": 0.24842,
+          "Local Employment": 0.18631499999999998,
+          "Market Stability": 0.18631499999999998,
+          "NPV": 0.310525
+        },
+        "renormalised_weights": {
+          "Community Infrastructure": 0.1,
+          "Geological Feasibility": 0.15,
+          "IRR": 0.2,
+          "Local Employment": 0.15,
+          "Market Stability": 0.15,
+          "NPV": 0.25
+        },
+        "scalar_sic": 0.807
+      }
+    }
+  }
+}

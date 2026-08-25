@@ -1,0 +1,17 @@
+{
+  "scope": "cross_phase_dedup_prior_screened_300_plus_post_republication_archive_661",
+  "prior_screened_records": 300,
+  "archive_records_post_republication": 661,
+  "combined_pool_before_cross_phase_dedup": 961,
+  "safe_cross_phase_duplicate_archive_records": 8,
+  "safe_cross_phase_duplicate_decision_rows": 8,
+  "same_title_year_publisher_review_pairs": 1,
+  "hash_metadata_conflict_pairs": 3,
+  "records_retained_after_safe_cross_phase_dedup": 953,
+  "analysis_ready_records_after_safe_cross_phase_dedup": 943,
+  "retained_non_analysis_ready_records": 10,
+  "near_duplicate_review_complete": false,
+  "corpus_frozen": false,
+  "dedup_rule": "Automatic cross-phase collapse requires the same canonical URL, or the same valid text SHA-256 corroborated by the same normalized title. Hash-only matches across conflicting metadata are never auto-collapsed. Same-title/year/publisher matches with differing URL/hash remain review candidates.",
+  "important_note": "The 678-row archive manifest is deliberately auditable and retains the 17 republications as rows; this audit uses only its 661 final retained records. Broader near-duplicate review remains before corpus freeze."
+}

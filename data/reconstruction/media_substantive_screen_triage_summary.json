@@ -1,0 +1,18 @@
+{
+  "triage_type": "non_decisional_substantive_review_prioritisation",
+  "candidate_records": 690,
+  "triaged_records": 690,
+  "prescreen_bucket_counts": {
+    "lonmin_only_title_review": 258,
+    "explicit_case_title_review": 432
+  },
+  "triage_status_counts": {
+    "manual_review_lonmin_only_low_case_signal": 154,
+    "priority_manual_review_case_signal": 480,
+    "manual_review_title_text_mismatch": 5,
+    "manual_review_possible_case_signal": 49,
+    "manual_review_acquisition_exception": 2
+  },
+  "final_inclusion_decisions_made": 0,
+  "important_note": "This triage does not include or exclude records. It only prioritises manual substantive review using transparent acquired-text signals. Final corpus membership must be recorded separately with an explicit decision reason before freeze."
+}

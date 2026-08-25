@@ -1,0 +1,23 @@
+{
+  "POST_FREEZE_ANALYSIS_REPORT.md": "3eae2ec6a590c8e6cdbabf1e5bbe69b06525a79b386286bc1dc16e4b6262091a",
+  "algorithm": "sha256",
+  "annotation_count_reconciliation.json": "cf90ebcf52f73972d334817ae79ea31c76d318d7949a13088809b83c00280386",
+  "annotation_pass_summary.json": "51604bf817cc60bae35e522b142efac4859e9522ecc8b138982007bf5acdf627",
+  "corpus_derived_indices.json": "83cb55aa875754de0063aa8437ca3e5f212947bc20daeb185556b58c21312f84",
+  "mcdm_reproducibility_audit.json": "d15206547e0ecbc97740cd5c561993f486913c170995ea56e5c30e373fda0253",
+  "model_execution_recovery.csv": "86164dfccffa7bd3bf44975b821a1822a94278b08ae3c5733dab75051a60a3a4",
+  "post_freeze_analysis_summary.json": "4311482dcb0948325d9ad820d93c190d4fa3bf69171dc12969b1719ada68b19c",
+  "post_freeze_model_hashes.json": "3577237baf163d6d7b8d564852e3444fde9f29945953f5c4043c92f3cc9483a6",
+  "reconstructed_stakeholder_attribution_final.csv": "1d1cb85be04f82eb59106465d2522dc3daca186a7192f89f195651014b89af6c",
+  "reconstructed_stakeholder_attribution_hashes.json": "8ce4e8cd2b70a8221eb7aa1de8cb241125e3661873b39447d4b0fb9e051dcdee",
+  "reconstructed_stakeholder_attribution_summary.json": "ec06ca943383d04beddf3df198dfe722a107d53045ec956cb3c049dbf5257cda",
+  "reconstructed_stakeholder_attribution_unresolved.csv": "a542fb50491f79873b2852c2fa23b8e843ce14f1ca6a36720384215bf4854904",
+  "reconstructed_stance_hashes.json": "721673115880dbcfdbf681b6f19c3eca6aba45ea4e54ca0d6892c70a2c92b807",
+  "reconstructed_stance_labels_final.csv": "e4fa6ebef40de13f42a95d98791dae25b0ac002821c86f6d27a4f588aca49f89",
+  "reconstructed_stance_summary.json": "2454c3cebb31205690eae81649f108add4a4e368c072c6876b1ad2f1a3033c79",
+  "reconstructed_stance_unresolved.csv": "1093606a82f2f6ef07cade08d2880006c5df5227f92309e4a1d7e0ea989655b5",
+  "scenario_formula_validation.csv": "6bcb1d67b9fdb1e5c559496e5bb0933bd06d08dedf0d51ba61f4ce3ea223505a",
+  "stakeholder_acceptance_oof.csv": "b0a77b7f5304099e9ca655842e02bd170546cede49e34051587ee05c28fd870f",
+  "svm_metrics.json": "0fad5b4b65f8e3cfa017e90821cb9a1f2fbe31169ab05902c2208b2150ec1df2",
+  "svm_oof_predictions.csv": "25186449577f33527bfeefb426bbc054202b75f3382855b7d8701356558be46d"
+}

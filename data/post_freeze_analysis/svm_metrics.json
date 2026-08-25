@@ -1,0 +1,83 @@
+{
+  "accuracy": 0.9305210918114144,
+  "balanced_accuracy": 0.7553532804614276,
+  "class_counts_model_evaluable": {
+    "0": 730,
+    "1": 76
+  },
+  "classification_report": {
+    "accuracy": 0.9305210918114144,
+    "macro avg": {
+      "f1-score": 0.7781055198316716,
+      "precision": 0.8071236559139785,
+      "recall": 0.7553532804614276,
+      "support": 806.0
+    },
+    "pro_integration": {
+      "f1-score": 0.5942028985507246,
+      "precision": 0.6612903225806451,
+      "recall": 0.5394736842105263,
+      "support": 76.0
+    },
+    "resistant": {
+      "f1-score": 0.9620081411126187,
+      "precision": 0.9529569892473119,
+      "recall": 0.9712328767123287,
+      "support": 730.0
+    },
+    "weighted avg": {
+      "f1-score": 0.9273267534765096,
+      "precision": 0.9254549214226635,
+      "recall": 0.9305210918114144,
+      "support": 806.0
+    }
+  },
+  "cohen_kappa_oof_vs_reconstructed_target": 0.556638246041413,
+  "confusion_matrix_labels_0_1": [
+    [
+      709,
+      21
+    ],
+    [
+      35,
+      41
+    ]
+  ],
+  "cv": {
+    "n_splits": 5,
+    "random_state": 42,
+    "shuffle": true,
+    "type": "StratifiedKFold"
+  },
+  "execution_text_unavailable_excluded": 1,
+  "f1_pro_integration": 0.5942028985507246,
+  "final_reconstructed_label_records": 807,
+  "frozen_analysis_manifest_sha256": "cb280e4cb138b2f6bba48b24f0dcd7521c4cb821871846ceb70523a05a7acad5",
+  "important_limitation": "Metrics quantify cross-validated agreement with computationally reconstructed B.4.2 labels, not unavailable historical human labels.",
+  "model_evaluable_records_after_fresh_text_recovery": 806,
+  "precision_pro_integration": 0.6612903225806451,
+  "recall_pro_integration": 0.5394736842105263,
+  "roc_auc_pro_integration": 0.9395277577505408,
+  "stage": "post_freeze_tfidf_rbf_svm_oof_evaluation_v2",
+  "svm": {
+    "C": 1.0,
+    "class_weight": "balanced",
+    "gamma": "scale",
+    "kernel": "rbf",
+    "probability": true,
+    "random_state": 42
+  },
+  "target_type": "reconstructed_computational_B4_2_labels_not_historical_human_labels",
+  "tfidf": {
+    "fit_inside_each_fold": true,
+    "max_df": 0.9,
+    "max_features": 500,
+    "min_df": 2,
+    "ngram_range": [
+      1,
+      2
+    ],
+    "stop_words": "english",
+    "sublinear_tf": true
+  }
+}

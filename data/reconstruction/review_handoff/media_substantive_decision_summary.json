@@ -1,0 +1,42 @@
+{
+  "ledger_scope": "all_690_archive_title_trigger_media_candidates",
+  "records_in_ledger": 690,
+  "final_decisions_made": 690,
+  "final_inclusions": 547,
+  "final_exclusions": 143,
+  "pending_substantive_review": 0,
+  "title_trigger_substantive_screen_complete": true,
+  "decision_status_counts": {
+    "final_batch_01": 25,
+    "final_batch_03": 480,
+    "final_batch_05": 63,
+    "final_batch_06": 44,
+    "final_batch_02": 52,
+    "final_batch_04": 26
+  },
+  "reason_code_counts": {
+    "include_case_central": 512,
+    "exclude_other_place_named_marikana": 6,
+    "exclude_general_corporate_financial": 120,
+    "exclude_analogical_marikana_reference": 3,
+    "exclude_other_mine_or_event": 13,
+    "include_lonmin_ownership_transition_labour_governance": 21,
+    "include_lonmin_marikana_labour_governance": 10,
+    "include_lonmin_community_housing_response": 4,
+    "exclude_incidental_marikana_reference": 1
+  },
+  "batch_06_applied_counts": {
+    "include_case_central": 5,
+    "exclude_other_place_named_marikana": 3,
+    "include_lonmin_ownership_transition_labour_governance": 10,
+    "exclude_general_corporate_financial": 14,
+    "exclude_other_mine_or_event": 3,
+    "include_lonmin_marikana_labour_governance": 5,
+    "include_lonmin_community_housing_response": 2,
+    "exclude_analogical_marikana_reference": 1,
+    "exclude_incidental_marikana_reference": 1
+  },
+  "batch_06_inclusions": 22,
+  "batch_06_exclusions": 22,
+  "important_note": "The 690-record title-trigger media queue now has an explicit substantive eligibility decision for every record. This does not freeze the corpus: the 1,062 secondary-keyword queue still requires screening, followed by duplicate resolution, canonical manifest construction and external pre-freeze review. No stance labels, historical class targets or model outputs were used."
+}

@@ -1,0 +1,3 @@
+candidate_id,decision,decision_stage,reason,evidence_basis,model_results_seen
+INST-004,exclude_off_scope,pre_freeze_relevance_review,"Policy Gap 10 concerns Kumba Iron Ore/Sishen rather than the Lonmin/Marikana case; retaining it would violate the declared Marikana scope. Policy Gap 7 is the directly Lonmin-focused Bench Marks follow-up and is separately screened in the expansion pool.","document title/content and published scope",false
+WEB-MEDIA-006,exclude_duplicate,pre_freeze_duplicate_review,"Same Engineering News article and same canonical URL as EXP-MEDIA-066; extraction differences are page-wrapper variance rather than a distinct document.","identical title/year/source URL and 0.998231 extracted-text similarity",false

@@ -1,0 +1,25 @@
+{
+  "scope": "eligible_archive_media_after_substantive_screening_before_corpus_freeze",
+  "title_trigger_inclusions": 547,
+  "secondary_keyword_inclusions": 131,
+  "included_media_records_pre_dedup": 678,
+  "records_with_syntactically_valid_text_sha256": 677,
+  "missing_text_hash_analyzability_exceptions": 1,
+  "missing_text_hash_exception_record_ids": [
+    "DISC-MEDIA-0286"
+  ],
+  "raw_repeated_sha256_groups": 2,
+  "safe_exact_duplicate_clusters": 0,
+  "safe_exact_duplicate_redundant_records": 0,
+  "suspected_extraction_hash_collision_clusters": 2,
+  "suspected_extraction_hash_collision_records": 10,
+  "records_after_safe_exact_dedup_including_quality_exceptions": 678,
+  "analysis_ready_records_after_safe_exact_dedup": 667,
+  "same_canonical_url_clusters_for_review": 0,
+  "same_normalised_title_year_clusters_for_review": 17,
+  "same_url_rows": 0,
+  "same_title_year_rows": 34,
+  "corpus_frozen": false,
+  "dedup_rule": "Identical SHA-256 is auto-collapsible only when metadata corroborates identity through the same normalised title or canonical URL. Repeated hashes across unrelated titles/URLs are treated as extraction collisions requiring text recovery. Same-title/year and same-URL clusters remain review-only unless safely resolved.",
+  "important_note": "This audit covers the newly screened archive-media pool only. Cross-phase deduplication against the prior screened reconstruction corpus, same-title/near-duplicate resolution and text recovery for quality exceptions remain before corpus freeze."
+}

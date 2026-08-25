@@ -1,0 +1,31 @@
+criterion,mode,delta,weight,change_from_base,criterion_pressure
+NPV,base_no_revision,0.3,0.25,0.0,0.0
+NPV,criterion_relevance_equal_actor_groups,0.3,0.2397387063622778,-0.010261293637722213,0.023937074829931973
+NPV,criterion_relevance_document_volume,0.3,0.23950658319945342,-0.010493416800546579,0.01808785529715762
+NPV,criterion_relevance_SIC_only,0.3,0.2396179202863446,-0.010382079713655401,0.024100333269243095
+NPV,criterion_relevance_SIC_times_contention,0.3,0.23961543800391094,-0.010384561996089059,0.02141828438395139
+IRR,base_no_revision,0.3,0.2,0.0,0.0
+IRR,criterion_relevance_equal_actor_groups,0.3,0.1910605517246899,-0.008939448275310125,0.011151304784208765
+IRR,criterion_relevance_document_volume,0.3,0.19094048344505385,-0.009059516554946162,0.006459948320413436
+IRR,criterion_relevance_SIC_only,0.3,0.19094012894457993,-0.009059871055420082,0.010890757136868384
+IRR,criterion_relevance_SIC_times_contention,0.3,0.1910802913566281,-0.00891970864337191,0.01070681847480857
+Geological Feasibility,base_no_revision,0.3,0.15,0.0,0.0
+Geological Feasibility,criterion_relevance_equal_actor_groups,0.3,0.14444852044696768,-0.0055514795530323124,0.03806457009033122
+Geological Feasibility,criterion_relevance_document_volume,0.3,0.14370394991967206,-0.006296050080327936,0.01808785529715762
+Geological Feasibility,criterion_relevance_SIC_only,0.3,0.14430867352664123,-0.005691326473358765,0.03666224338951211
+Geological Feasibility,criterion_relevance_SIC_times_contention,0.3,0.14441172188715792,-0.005588278112842071,0.03640960180519497
+Market Stability,base_no_revision,0.3,0.15,0.0,0.0
+Market Stability,criterion_relevance_equal_actor_groups,0.3,0.14361005217180325,-0.00638994782819674,0.018494897959183673
+Market Stability,criterion_relevance_document_volume,0.3,0.1434823555481691,-0.006517644451830895,0.012919896640826873
+Market Stability,criterion_relevance_SIC_only,0.3,0.1435292407539768,-0.006470759246023194,0.01846039223226303
+Market Stability,criterion_relevance_SIC_times_contention,0.3,0.14356900039793122,-0.0064309996020687765,0.016745306223773477
+Local Employment,base_no_revision,0.3,0.15,0.0,0.0
+Local Employment,criterion_relevance_equal_actor_groups,0.3,0.1717376371443474,0.0217376371443474,0.6749867797131506
+Local Employment,criterion_relevance_document_volume,0.3,0.1737853858511994,0.02378538585119941,0.7196382428940569
+Local Employment,criterion_relevance_SIC_only,0.3,0.17202410628799783,0.022024106287997836,0.6838921259058126
+Local Employment,criterion_relevance_SIC_times_contention,0.3,0.17214040471446315,0.022140404714463158,0.6834383321392938
+Community Infrastructure,base_no_revision,0.3,0.1,0.0,0.0
+Community Infrastructure,criterion_relevance_equal_actor_groups,0.3,0.10940453214991398,0.009404532149913977,0.496884613938931
+Community Infrastructure,criterion_relevance_document_volume,0.3,0.1085812420364523,0.008581242036452288,0.46511627906976744
+Community Infrastructure,criterion_relevance_SIC_only,0.3,0.10957993020045952,0.00957993020045951,0.5051457169744659
+Community Infrastructure,criterion_relevance_SIC_times_contention,0.3,0.10918314363990872,0.009183143639908714,0.4882310325180029

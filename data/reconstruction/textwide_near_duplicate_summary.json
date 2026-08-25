@@ -1,0 +1,23 @@
+{
+  "scope": "final_textwide_near_duplicate_evidence_audit_for_analysis_ready_prefreeze_corpus",
+  "retained_manifest_records": 893,
+  "analysis_ready_records_targeted": 883,
+  "fresh_recovery_status_counts": {
+    "retrieved_extracted": 879,
+    "retrieved_no_text": 4
+  },
+  "fresh_extraction_method_counts": {
+    "pypdf": 71,
+    "trafilatura": 808
+  },
+  "global_extraction_collision_groups": 0,
+  "records_usable_for_textwide_similarity": 879,
+  "records_not_usable_for_textwide_similarity": 4,
+  "candidate_pairs_ge_0_92": 7,
+  "near_duplicate_pairs_ge_0_95": 7,
+  "watch_pairs_0_92_to_0_95": 0,
+  "final_duplicate_decisions_made": 0,
+  "textwide_review_complete": false,
+  "corpus_frozen": false,
+  "important_note": "This is an evidence audit only. It uses fresh extraction solely to identify near-duplicate candidates; no full text is committed. Any >=0.92 pair requires explicit source/content review. Failed or unusable fresh recoveries are reported and prevent claiming complete textwide coverage until reconciled against prior QC/provenance."
+}

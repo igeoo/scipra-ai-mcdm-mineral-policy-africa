@@ -1,0 +1,121 @@
+min_matched_sentences,min_distinct_families,stakeholder_group,criterion,recovered_documents,relevant_documents,A_sj
+1,1,government,NPV,318,0,0.0
+1,1,government,IRR,318,0,0.0
+1,1,government,Geological Feasibility,318,51,0.16037735849056603
+1,1,government,Market Stability,318,0,0.0
+1,1,government,Local Employment,318,261,0.8207547169811321
+1,1,government,Community Infrastructure,318,157,0.4937106918238994
+1,1,investor,NPV,147,29,0.19727891156462585
+1,1,investor,IRR,147,16,0.10884353741496598
+1,1,investor,Geological Feasibility,147,39,0.2653061224489796
+1,1,investor,Market Stability,147,34,0.23129251700680273
+1,1,investor,Local Employment,147,137,0.9319727891156463
+1,1,investor,Community Infrastructure,147,129,0.8775510204081632
+1,1,community,NPV,33,2,0.06060606060606061
+1,1,community,IRR,33,1,0.030303030303030304
+1,1,community,Geological Feasibility,33,8,0.24242424242424243
+1,1,community,Market Stability,33,0,0.0
+1,1,community,Local Employment,33,26,0.7878787878787878
+1,1,community,Community Infrastructure,33,28,0.8484848484848485
+1,1,labour,NPV,244,4,0.01639344262295082
+1,1,labour,IRR,244,12,0.04918032786885246
+1,1,labour,Geological Feasibility,244,29,0.11885245901639344
+1,1,labour,Market Stability,244,13,0.05327868852459016
+1,1,labour,Local Employment,244,243,0.9959016393442623
+1,1,labour,Community Infrastructure,244,165,0.6762295081967213
+1,1,NGO,NPV,32,2,0.0625
+1,1,NGO,IRR,32,2,0.0625
+1,1,NGO,Geological Feasibility,32,8,0.25
+1,1,NGO,Market Stability,32,4,0.125
+1,1,NGO,Local Employment,32,24,0.75
+1,1,NGO,Community Infrastructure,32,15,0.46875
+2,1,government,NPV,318,0,0.0
+2,1,government,IRR,318,0,0.0
+2,1,government,Geological Feasibility,318,18,0.05660377358490566
+2,1,government,Market Stability,318,0,0.0
+2,1,government,Local Employment,318,195,0.6132075471698113
+2,1,government,Community Infrastructure,318,110,0.34591194968553457
+2,1,investor,NPV,147,17,0.11564625850340136
+2,1,investor,IRR,147,7,0.047619047619047616
+2,1,investor,Geological Feasibility,147,16,0.10884353741496598
+2,1,investor,Market Stability,147,11,0.07482993197278912
+2,1,investor,Local Employment,147,126,0.8571428571428571
+2,1,investor,Community Infrastructure,147,116,0.7891156462585034
+2,1,community,NPV,33,0,0.0
+2,1,community,IRR,33,0,0.0
+2,1,community,Geological Feasibility,33,2,0.06060606060606061
+2,1,community,Market Stability,33,0,0.0
+2,1,community,Local Employment,33,19,0.5757575757575758
+2,1,community,Community Infrastructure,33,23,0.696969696969697
+2,1,labour,NPV,244,0,0.0
+2,1,labour,IRR,244,1,0.004098360655737705
+2,1,labour,Geological Feasibility,244,8,0.03278688524590164
+2,1,labour,Market Stability,244,1,0.004098360655737705
+2,1,labour,Local Employment,244,239,0.9795081967213115
+2,1,labour,Community Infrastructure,244,136,0.5573770491803278
+2,1,NGO,NPV,32,2,0.0625
+2,1,NGO,IRR,32,1,0.03125
+2,1,NGO,Geological Feasibility,32,8,0.25
+2,1,NGO,Market Stability,32,1,0.03125
+2,1,NGO,Local Employment,32,21,0.65625
+2,1,NGO,Community Infrastructure,32,9,0.28125
+2,2,government,NPV,318,0,0.0
+2,2,government,IRR,318,0,0.0
+2,2,government,Geological Feasibility,318,0,0.0
+2,2,government,Market Stability,318,0,0.0
+2,2,government,Local Employment,318,169,0.5314465408805031
+2,2,government,Community Infrastructure,318,90,0.2830188679245283
+2,2,investor,NPV,147,13,0.08843537414965986
+2,2,investor,IRR,147,3,0.02040816326530612
+2,2,investor,Geological Feasibility,147,9,0.061224489795918366
+2,2,investor,Market Stability,147,9,0.061224489795918366
+2,2,investor,Local Employment,147,118,0.8027210884353742
+2,2,investor,Community Infrastructure,147,111,0.7551020408163265
+2,2,community,NPV,33,0,0.0
+2,2,community,IRR,33,0,0.0
+2,2,community,Geological Feasibility,33,0,0.0
+2,2,community,Market Stability,33,0,0.0
+2,2,community,Local Employment,33,17,0.5151515151515151
+2,2,community,Community Infrastructure,33,21,0.6363636363636364
+2,2,labour,NPV,244,0,0.0
+2,2,labour,IRR,244,1,0.004098360655737705
+2,2,labour,Geological Feasibility,244,1,0.004098360655737705
+2,2,labour,Market Stability,244,0,0.0
+2,2,labour,Local Employment,244,235,0.9631147540983607
+2,2,labour,Community Infrastructure,244,129,0.5286885245901639
+2,2,NGO,NPV,32,1,0.03125
+2,2,NGO,IRR,32,1,0.03125
+2,2,NGO,Geological Feasibility,32,4,0.125
+2,2,NGO,Market Stability,32,1,0.03125
+2,2,NGO,Local Employment,32,18,0.5625
+2,2,NGO,Community Infrastructure,32,9,0.28125
+3,2,government,NPV,318,0,0.0
+3,2,government,IRR,318,0,0.0
+3,2,government,Geological Feasibility,318,0,0.0
+3,2,government,Market Stability,318,0,0.0
+3,2,government,Local Employment,318,138,0.4339622641509434
+3,2,government,Community Infrastructure,318,37,0.11635220125786164
+3,2,investor,NPV,147,8,0.05442176870748299
+3,2,investor,IRR,147,2,0.013605442176870748
+3,2,investor,Geological Feasibility,147,8,0.05442176870748299
+3,2,investor,Market Stability,147,6,0.04081632653061224
+3,2,investor,Local Employment,147,106,0.7210884353741497
+3,2,investor,Community Infrastructure,147,55,0.3741496598639456
+3,2,community,NPV,33,0,0.0
+3,2,community,IRR,33,0,0.0
+3,2,community,Geological Feasibility,33,0,0.0
+3,2,community,Market Stability,33,0,0.0
+3,2,community,Local Employment,33,14,0.42424242424242425
+3,2,community,Community Infrastructure,33,15,0.45454545454545453
+3,2,labour,NPV,244,0,0.0
+3,2,labour,IRR,244,0,0.0
+3,2,labour,Geological Feasibility,244,0,0.0
+3,2,labour,Market Stability,244,0,0.0
+3,2,labour,Local Employment,244,227,0.930327868852459
+3,2,labour,Community Infrastructure,244,39,0.1598360655737705
+3,2,NGO,NPV,32,0,0.0
+3,2,NGO,IRR,32,1,0.03125
+3,2,NGO,Geological Feasibility,32,4,0.125
+3,2,NGO,Market Stability,32,1,0.03125
+3,2,NGO,Local Employment,32,15,0.46875
+3,2,NGO,Community Infrastructure,32,9,0.28125

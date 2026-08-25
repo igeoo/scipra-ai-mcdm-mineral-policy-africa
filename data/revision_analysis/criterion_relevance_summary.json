@@ -1,0 +1,87 @@
+{
+  "eligible_resolved_stakeholder_records": 776,
+  "fresh_recovery_unavailable": 2,
+  "freshly_recovered_records": 774,
+  "historical_parameter_recovery_claim": false,
+  "important_limitation": "The matrix depends on preregistered phrase families and fresh source recovery; it estimates documentary issue prevalence, not normative stakeholder preference strength.",
+  "matrix_interpretation": "A_sj is document-level criterion prevalence among freshly recovered, resolved-stakeholder records; it is a discourse-relevance proxy, not an expert preference matrix.",
+  "primary_delta_0_3_pressures": {
+    "Community Infrastructure": 0.4882310325180029,
+    "Geological Feasibility": 0.03640960180519497,
+    "IRR": 0.01070681847480857,
+    "Local Employment": 0.6834383321392938,
+    "Market Stability": 0.016745306223773477,
+    "NPV": 0.02141828438395139
+  },
+  "primary_delta_0_3_salience_times_contention_weights": {
+    "Community Infrastructure": 0.10918314363990872,
+    "Geological Feasibility": 0.14441172188715792,
+    "IRR": 0.1910802913566281,
+    "Local Employment": 0.17214040471446315,
+    "Market Stability": 0.14356900039793122,
+    "NPV": 0.23961543800391094
+  },
+  "primary_rule": {
+    "min_distinct_families": 2,
+    "min_matched_sentences": 2
+  },
+  "recovered_by_stakeholder": {
+    "NGO": 32,
+    "community": 33,
+    "government": 318,
+    "investor": 147,
+    "labour": 244
+  },
+  "revision_claim": true,
+  "sensitivity_rules": [
+    {
+      "min_distinct_families": 1,
+      "min_matched_sentences": 1
+    },
+    {
+      "min_distinct_families": 1,
+      "min_matched_sentences": 2
+    },
+    {
+      "min_distinct_families": 2,
+      "min_matched_sentences": 2
+    },
+    {
+      "min_distinct_families": 2,
+      "min_matched_sentences": 3
+    }
+  ],
+  "stage": "data_derived_criterion_relevance_matrix_revision",
+  "threshold_sensitivity_weight_ranges_delta_0_3": {
+    "Community Infrastructure": {
+      "max": 0.1111761827412934,
+      "min": 0.10399908826456904,
+      "range": 0.007177094476724363
+    },
+    "Geological Feasibility": {
+      "max": 0.1474660774045896,
+      "min": 0.14441172188715792,
+      "range": 0.0030543555174316894
+    },
+    "IRR": {
+      "max": 0.19305446994225336,
+      "min": 0.18809334501009817,
+      "range": 0.0049611249321551976
+    },
+    "Local Employment": {
+      "max": 0.1749662514475321,
+      "min": 0.17067438698854828,
+      "range": 0.0042918644589838295
+    },
+    "Market Stability": {
+      "max": 0.144993313423052,
+      "min": 0.14227040037601432,
+      "range": 0.002722913047037673
+    },
+    "NPV": {
+      "max": 0.2413742928041932,
+      "min": 0.23602774302047239,
+      "range": 0.0053465497837208165
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "scope": "eligible_archive_media_after_same_title_republication_and_quality_review",
+  "eligible_records_before_pair_review": 678,
+  "same_title_year_pairs_resolved": 17,
+  "redundant_republication_records": 17,
+  "records_retained_after_republication_collapse": 661,
+  "raw_quality_exception_records_before_pair_collapse": 11,
+  "quality_exception_records_retained_after_pair_collapse": 10,
+  "retained_missing_text_exceptions": 1,
+  "retained_extraction_collision_exceptions": 9,
+  "analysis_ready_archive_media_pre_cross_phase": 651,
+  "same_title_year_review_complete": true,
+  "corpus_frozen": false,
+  "important_note": "Substantive eligibility remains 678 pre-dedup records, but 17 later republications are collapsed for corpus analysis. Ten retained rows remain non-analysis-ready because article text is missing or extraction collisions persist. Cross-phase duplicate review against the prior screened reconstruction corpus and additional near-duplicate checks remain before freeze."
+}

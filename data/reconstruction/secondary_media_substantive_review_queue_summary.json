@@ -1,0 +1,13 @@
+{
+  "pending_records": 0,
+  "evidence_class_counts": {},
+  "review_priority_counts": {},
+  "publisher_counts": {},
+  "priority_order": {
+    "strong_case_context_supported": 0,
+    "possible_lonmin_substantive_context": 1,
+    "case_term_low_context_review": 2,
+    "lonmin_low_context_review": 3
+  },
+  "note": "Pending-only reviewer queue; blank review fields are intentional and no decision is made by this builder."
+}

@@ -1,0 +1,18 @@
+{
+  "scope": "broad_metadata_near_duplicate_candidate_sweep_after_explicit_duplicate_review",
+  "records_scanned": 942,
+  "analysis_ready_records_scanned": 932,
+  "non_analysis_ready_records_scanned": 10,
+  "candidate_pairs": 49,
+  "candidate_signal_counts": {
+    "exact_normalised_title": 42,
+    "very_high_slug_similarity": 3,
+    "high_title_similarity": 4
+  },
+  "same_year_candidate_pairs": 49,
+  "cross_year_exact_title_candidate_pairs": 0,
+  "final_duplicate_decisions_made": 0,
+  "near_duplicate_review_complete": false,
+  "corpus_frozen": false,
+  "important_note": "This is candidate generation only. No row is removed by title or slug similarity. Candidate pairs require targeted full-text/source review before any additional collapse."
+}

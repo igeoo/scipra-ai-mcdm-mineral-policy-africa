@@ -1,0 +1,23 @@
+{
+  "scope": "targeted_full_text_evidence_for_49_broad_near_duplicate_candidates",
+  "candidate_pairs": 49,
+  "unique_urls_targeted": 98,
+  "fetch_status_counts": {
+    "retrieved_extracted": 98
+  },
+  "fresh_hash_collision_groups": 4,
+  "fresh_hash_collision_hashes": [
+    "0dcc2364bc7d0fb0cc885e3d93b1c0d4acc88d59150c0e43943ea6baa7a117b1",
+    "84b9e8ffd5341fe8cdc1ce4ba83f33ff36eaf3658b2591589769d7a3166ee77e",
+    "c6ff42daff5e93172451b00f4c15cb581c0dd24bd9731e52f59ef9599023d588",
+    "ffd12c07e9fdc2a758d46f913bde848a4c4a3ede3b3a5c56a13f3aa8eb954339"
+  ],
+  "text_evidence_signal_counts": {
+    "very_high_text_similarity_republication_likely": 39,
+    "high_text_similarity_republication_review": 6,
+    "extraction_collision_blocks_text_similarity": 4
+  },
+  "final_duplicate_decisions_made": 0,
+  "corpus_frozen": false,
+  "important_note": "Fresh article text is not committed. Repeated fresh hashes across distinct titles are treated as extraction collisions and block similarity-based decisions. All candidate pairs still require explicit review."
+}

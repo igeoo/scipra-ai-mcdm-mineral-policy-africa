@@ -1,0 +1,27 @@
+{
+  "target_group": "all_archive_title_trigger_media_candidates",
+  "expected_records": 690,
+  "records_processed": 690,
+  "prescreen_bucket_counts": {
+    "explicit_case_title_review": 432,
+    "lonmin_only_title_review": 258
+  },
+  "targeted_fetch_status_counts": {
+    "retrieved_extracted": 688,
+    "failed_or_no_text": 2
+  },
+  "evidence_class_counts": {
+    "strong_early_2012_event_context": 49,
+    "strong_case_context_supported": 457,
+    "ambiguous_low_signal": 69,
+    "possible_substantive_case_context": 54,
+    "likely_routine_corporate_signal": 19,
+    "acquisition_or_text_exception": 2,
+    "strong_routine_corporate_signal": 26,
+    "case_name_only_routine_project_or_corporate_signal": 5,
+    "case_term_low_context_review": 9
+  },
+  "final_decisions_made": 0,
+  "important_boundary": "Literal Marikana/place/project-name matching is not sufficient; case context is required.",
+  "note": "Targeted evidence only; no article text is committed and no final membership decision is automated."
+}

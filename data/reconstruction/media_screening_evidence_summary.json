@@ -1,0 +1,18 @@
+{
+  "screening_evidence_type": "non_decisional_transparent_acquired_text_signals",
+  "records_processed": 690,
+  "evidence_class_counts": {
+    "strong_early_2012_event_context": 49,
+    "strong_case_context_supported": 464,
+    "ambiguous_low_signal": 76,
+    "likely_routine_corporate_signal": 23,
+    "acquisition_exception": 2,
+    "possible_substantive_case_context": 33,
+    "strong_routine_corporate_signal": 25,
+    "case_name_only_routine_project_or_corporate_signal": 8,
+    "case_term_low_context_review": 10
+  },
+  "final_decisions_made": 0,
+  "important_boundary": "Literal Marikana/place/project-name matching is not sufficient. Strong case evidence requires event, labour, justice, community or governance context.",
+  "note": "Evidence classes are decision support only. Final inclusion/exclusion requires the locked screening rubric and an explicit decision ledger entry."
+}
