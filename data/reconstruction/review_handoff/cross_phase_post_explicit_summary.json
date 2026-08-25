@@ -1,0 +1,14 @@
+{
+  "scope": "post_safe_cross_phase_plus_explicit_prior_qc_and_cross_phase_duplicate_review",
+  "records_before_explicit_review": 953,
+  "safe_cross_phase_duplicates_already_removed": 8,
+  "explicit_duplicate_decisions_applied": 11,
+  "explicit_cross_phase_duplicates": 4,
+  "explicit_prior_qc_duplicates": 7,
+  "records_retained_after_explicit_review": 942,
+  "analysis_ready_records_after_explicit_review": 932,
+  "retained_non_analysis_ready_records": 10,
+  "near_duplicate_review_complete": false,
+  "corpus_frozen": false,
+  "important_note": "This stage resolves all previously identified same-title and >=0.95 prior-QC near-duplicate cases plus the four residual cross-phase cases. A broader metadata/text near-duplicate candidate sweep still remains before canonical corpus freeze."
+}

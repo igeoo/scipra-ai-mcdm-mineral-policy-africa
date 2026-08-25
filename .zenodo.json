@@ -1,17 +1,11 @@
 {
-  "title": "SCIPRA: Stakeholder-Centric Investment\u2013Regulatory Policy Architecture",
+  "title": "SCIPRA: Stakeholder-Centric Investment–Regulatory Policy Architecture",
   "upload_type": "software",
-  "description": "Reproducibility package for the SCIPRA AI-enhanced MCDM framework, including appendices, code files, and camera-ready supplementary figures.",
+  "description": "Author-controlled computational reproducibility package for the SCIPRA AI-enhanced MCDM framework, including frozen reconstruction manifests, code, model outputs, mathematical audits, robustness analyses, and integrity metadata. Unpublished manuscript/submission files are excluded pending author approval.",
   "creators": [
-    {
-      "name": "Ige, Oladeji O."
-    },
-    {
-      "name": "Mora-Camino, Felix"
-    },
-    {
-      "name": "Olanrewaju, Oludolapo A."
-    }
+    {"name": "Ige, Oladeji O."},
+    {"name": "Mora-Camino, Felix"},
+    {"name": "Olanrewaju, Oludolapo A."}
   ],
   "license": "MIT",
   "keywords": [
@@ -21,6 +15,7 @@
     "NLP",
     "SVM",
     "mineral governance",
+    "reproducibility",
     "Africa"
   ]
 }

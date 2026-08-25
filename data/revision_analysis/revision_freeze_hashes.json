@@ -1,0 +1,23 @@
+{
+  "algorithm": "sha256",
+  "files": {
+    "CORRECTED_SWDC_CANDIDATE_REPORT.md": "86b3a460a8e584b9d070cffa5870def189a5d84c718e3ed990e6d41fa0a3cc6a",
+    "CRITERION_RELEVANCE_PROTOCOL.md": "dc7cba412cd44679a93cc62b325e18fe14ab7cd860c8a1d465ba483e47d0b955",
+    "NOVELTY_POSITIONING.md": "72d41bf3d5f66fb3275a011fdf7405a1e62c9de081d388461ca1bb33adff0a1a",
+    "STANCE_ROBUSTNESS_REPORT.md": "86eb8b774d0763e5311a2485bf89a501afe192c1154e7d46727bb0a05bf2d2ed",
+    "corrected_swdc_candidate_summary.json": "3ab920a8af212ab5ad49508a9fb793f70194f0ff953275de17d40ae39cd85fb2",
+    "criterion_relevance_document_audit.csv": "866c816f56a052ea7290e4de26af8cf258d98d0965024187cf6c483a008ea79d",
+    "criterion_relevance_matrix.csv": "f9f28c69e5f3f1b04a65bfb9cc084c453090d55659e4edaa7d5f24e2e35fa4d0",
+    "criterion_relevance_matrix_sensitivity.csv": "41f5ffefb3d1ef23d169f1886881b559b3c4d937c380fab934bb318b80181b3e",
+    "criterion_relevance_summary.json": "c0e2ffb0a2c927355cefb9cc47bf055fb6c5713c36fb4d25b0a6efad68875532",
+    "criterion_semantic_sensitivity_document_audit.csv": "98653a6b7d38049f9c478d17070a42e49f61ecb08d2bce38e938e2717ea16309",
+    "criterion_semantic_sensitivity_matrix.csv": "67c9a092fe71f24af211a4aa96075ada6a925e78d15bf1dfc8dcbff084c7256f",
+    "criterion_semantic_sensitivity_summary.json": "2f7978079b0396a0472a945576a5b6ca381d315fb6a6cd60476af6656e06ea4c",
+    "revision_component_ablation.json": "c15a8c1839a5a6d8171f23d524b1c1bf6369028e490b43c6cea77dfbac758488",
+    "stance_adjudication_sensitivity_grid.csv": "99d3f4f2a3bca2778c3fb65e6907552e0a7fbc098ca7b12e6bfea68d90a953d1",
+    "stance_publisher_breakdown_n_ge_5.csv": "d081ce8fdf6d27e5925ba9909751ecb9cc094d1deac66f61b0c283b6d3ac85d9",
+    "stance_robustness_summary.json": "2bbb002a205fefc5af5005446ae9ae283e6e69255cdc5eaf630177fcfec9ac4a",
+    "stance_source_phase_breakdown.csv": "f6b6b31faf05adea464a7a149be6a8450d8622efd753ef91b40115fa771d89d3"
+  },
+  "stage": "frozen_revision_analysis"
+}

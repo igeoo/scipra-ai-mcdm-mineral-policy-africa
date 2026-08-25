@@ -1,0 +1,27 @@
+{
+  "final_model_eligible_labelled_records": 807,
+  "frozen_analysis_manifest_sha256": "cb280e4cb138b2f6bba48b24f0dcd7521c4cb821871846ceb70523a05a7acad5",
+  "frozen_analysis_ready_records": 876,
+  "historical_reported_71_16_used_as_target": false,
+  "human_annotation_recreated": false,
+  "interpretation": "This is a transparent computational reconstruction of the documented B.4.2 binary decision criteria. It is not the unavailable historical two-human-annotator ledger. Model metrics must therefore be described as agreement with reconstructed computational labels, not recovered human-label predictive validation.",
+  "legacy_svm_labels_used": false,
+  "low_confidence_stakeholder_proxy_records_model_eligible": 51,
+  "observed_reconstructed_class_counts": {
+    "0": 730,
+    "1": 77
+  },
+  "observed_reconstructed_pro_integration_fraction": 0.09541511771995044,
+  "observed_reconstructed_resistant_fraction": 0.9045848822800495,
+  "pass1_agreement_labels": 735,
+  "stage": "final_reconstructed_computational_stance_labels",
+  "stakeholder_proxy_counts_model_eligible": {
+    "NGO": 32,
+    "community": 38,
+    "government": 330,
+    "investor": 153,
+    "labour": 254
+  },
+  "third_computational_adjudications": 72,
+  "unresolved_records_excluded_from_model": 69
+}

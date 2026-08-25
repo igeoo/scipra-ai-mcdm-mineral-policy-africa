@@ -1,0 +1,18 @@
+{
+  "audit_scope": "targeted_archive_media_quality_recovery_and_same_title_year_similarity",
+  "unique_urls_refetched": 44,
+  "same_title_year_pairs": 17,
+  "pair_similarity_signal_counts": {
+    "high_similarity_requires_republication_review": 14,
+    "moderate_similarity_distinct_update_possible": 1,
+    "very_high_similarity_possible_republication": 2
+  },
+  "quality_exception_records_targeted": 11,
+  "quality_recovery_disposition_counts": {
+    "still_unresolved_text_recovery": 1,
+    "fresh_distinct_text_recovered_requires_content_qc": 10
+  },
+  "quality_records_with_fresh_text": 10,
+  "final_duplicate_decisions_made": 0,
+  "important_note": "This is evidence-only. Fresh text is held only in runner memory and is not committed. Similarity signals do not automatically collapse records; final pair decisions require explicit review. Suspected extraction-collision records remain non-analysis-ready until recovered text is judged credible."
+}

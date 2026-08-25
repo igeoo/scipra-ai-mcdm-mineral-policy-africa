@@ -1,0 +1,27 @@
+{
+  "target_group": "secondary_keyword_only_review_media_candidates",
+  "expected_records": 1062,
+  "records_processed": 1062,
+  "targeted_fetch_status_counts": {
+    "retrieved_extracted": 1062
+  },
+  "publisher_counts": {
+    "Daily Maverick": 118,
+    "Engineering News": 944
+  },
+  "evidence_class_counts": {
+    "strong_case_context_supported": 91,
+    "possible_lonmin_substantive_context": 80,
+    "no_case_anchor": 115,
+    "sibanye_context_without_case_anchor_review": 361,
+    "ambiguous_secondary_review": 261,
+    "strong_routine_no_case_anchor": 104,
+    "lonmin_low_context_review": 14,
+    "case_name_only_routine_project_or_corporate_signal": 10,
+    "strong_lonmin_context_supported": 17,
+    "case_term_low_context_review": 9
+  },
+  "final_decisions_made": 0,
+  "important_boundary": "Secondary title status is not an exclusion. Generic-title articles are screened on acquired text; articles with no Marikana/Lonmin/Sibanye anchor are separated from hidden body-text case matches.",
+  "note": "Evidence only; no article text is committed and no final corpus membership decision is automated by this script."
+}

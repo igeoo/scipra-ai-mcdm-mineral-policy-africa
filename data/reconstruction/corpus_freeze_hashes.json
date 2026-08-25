@@ -1,0 +1,10 @@
+{
+  "algorithm": "sha256",
+  "canonical_analysis_ready_manifest.csv": "cb280e4cb138b2f6bba48b24f0dcd7521c4cb821871846ceb70523a05a7acad5",
+  "canonical_reconstructed_replication_corpus.csv": "f6f0652617fd0bedd94154e7b2b187ee5ff15ca0a3be19aadde8fbf93a2b91b0",
+  "prefreeze_manifest_after_broad_duplicate_review.csv": "ea5c30510699899ce0ca3735b99d6cd6386ba01f17c2cea7a602ab89bad6e4b6",
+  "textwide_near_duplicate_candidates.csv": "e4c2840897a6e7a972d0f41518ce147f9edc5b44a3d1c0a69eec6593d861ebf7",
+  "textwide_near_duplicate_final_decisions.csv": "a57858a161fcc2f93da3f884c9573f72920f647ee6214704fc72172a8d0ad698",
+  "textwide_recovery_reconciliation.csv": "029af0e794299a461024a2b2e5d1532580e9690d095ff050adf943b3758867c6",
+  "textwide_recovery_status.csv": "f002c5a526136ec7ca3c0e7804f2d0e987f361e899bb8ee17090ccefe14da2ea"
+}

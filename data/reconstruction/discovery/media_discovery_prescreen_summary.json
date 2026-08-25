@@ -1,0 +1,30 @@
+{
+  "discovered_urls": 2076,
+  "status_counts": {
+    "lonmin_only_title_review": 258,
+    "explicit_case_title_review": 432,
+    "already_screened": 106,
+    "secondary_keyword_only_review": 1062,
+    "exclude_outside_period": 211,
+    "review_year_unresolved": 7
+  },
+  "direct_case_new_candidates": 690,
+  "title_trigger_review_candidates": 690,
+  "explicit_case_title_review_candidates": 432,
+  "lonmin_only_title_review_candidates": 258,
+  "publisher_status_counts": {
+    "Daily Maverick::already_screened": 73,
+    "Daily Maverick::exclude_outside_period": 43,
+    "Daily Maverick::explicit_case_title_review": 340,
+    "Daily Maverick::lonmin_only_title_review": 21,
+    "Daily Maverick::review_year_unresolved": 6,
+    "Daily Maverick::secondary_keyword_only_review": 118,
+    "Engineering News::already_screened": 33,
+    "Engineering News::exclude_outside_period": 168,
+    "Engineering News::explicit_case_title_review": 92,
+    "Engineering News::lonmin_only_title_review": 237,
+    "Engineering News::review_year_unresolved": 1,
+    "Engineering News::secondary_keyword_only_review": 944
+  },
+  "note": "Automated title/URL pre-screen only. No title match confers corpus eligibility. High-specificity case-title and Lonmin-only matches are preserved for acquired-text substantive screening; secondary-keyword URLs are preserved for reviewer screening and are not silently excluded."
+}

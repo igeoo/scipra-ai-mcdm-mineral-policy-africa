@@ -1,0 +1,17 @@
+{
+  "target_group": "manual_review_lonmin_only_low_case_signal",
+  "expected_records": 154,
+  "records_processed": 154,
+  "targeted_fetch_status_counts": {
+    "retrieved_extracted": 154
+  },
+  "evidence_class_counts": {
+    "strong_early_2012_event_context": 1,
+    "likely_routine_corporate_signal": 23,
+    "possible_substantive_case_context": 32,
+    "ambiguous_low_signal": 73,
+    "strong_routine_corporate_signal": 25
+  },
+  "final_decisions_made": 0,
+  "note": "Targeted evidence only; no article text is committed and no final membership decision is automated."
+}

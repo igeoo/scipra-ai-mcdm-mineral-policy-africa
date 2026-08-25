@@ -1,0 +1,35 @@
+{
+  "ledger_scope": "1062_secondary_keyword_archive_media_candidates",
+  "records_in_ledger": 1062,
+  "final_decisions_made": 1062,
+  "final_inclusions": 131,
+  "final_exclusions": 931,
+  "pending_substantive_review": 0,
+  "secondary_keyword_substantive_screen_complete": true,
+  "decision_status_counts": {
+    "final_secondary_batch_01": 916,
+    "final_secondary_batch_03": 69,
+    "final_secondary_batch_02": 77
+  },
+  "reason_code_counts": {
+    "include_case_central": 48,
+    "exclude_incidental_marikana_reference": 24,
+    "include_lonmin_marikana_labour_governance": 24,
+    "exclude_no_marikana_lonmin_case_anchor": 841,
+    "include_2014_platinum_strike_lonmin": 53,
+    "exclude_other_mine_or_event": 29,
+    "exclude_general_corporate_financial": 37,
+    "include_lonmin_ownership_transition_labour_governance": 6
+  },
+  "batch_03_applied_counts": {
+    "exclude_incidental_marikana_reference": 15,
+    "exclude_other_mine_or_event": 29,
+    "exclude_general_corporate_financial": 13,
+    "include_2014_platinum_strike_lonmin": 3,
+    "include_lonmin_marikana_labour_governance": 3,
+    "include_lonmin_ownership_transition_labour_governance": 6
+  },
+  "batch_03_inclusions": 12,
+  "batch_03_exclusions": 57,
+  "important_note": "All 1,062 secondary-keyword archive media candidates now have explicit substantive eligibility decisions. This completes media substantive screening but does not freeze the corpus: exact/near-duplicate resolution, canonical manifest construction and external pre-freeze review remain required. No stance labels, historical class targets or model outputs were used."
+}

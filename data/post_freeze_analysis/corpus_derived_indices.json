@@ -1,0 +1,27 @@
+{
+  "domain_weights": [
+    0.3,
+    0.35,
+    0.35
+  ],
+  "interpretation_constraint": "I and R are reconstructed operational proxies from resolved investor/government OOF acceptance probabilities. They are not independently reproduced FAHP scenario performance scores.",
+  "investment_score_proxy": 0.27393121219659106,
+  "linear_pci": 0.14426165560969276,
+  "nonlinear_pci_weighted_harmonic_blend": 0.12000608030022439,
+  "regulatory_score_proxy": 0.05368961631150613,
+  "rpc_lambda": 0.1,
+  "rpci_normalised_A10": 0.12883993060901802,
+  "rpci_raw": 0.13528192713946893,
+  "stage": "corpus_derived_operational_proxy_indices_from_oof_svm_v2",
+  "stakeholder_attribution_unresolved_excluded_from_group_aggregation": 31,
+  "stakeholder_group_probabilities": {
+    "NGO": 0.05374463307852234,
+    "community": 0.18458192745818228,
+    "government": 0.05368961631150613,
+    "investor": 0.27393121219659106,
+    "labour": 0.04425123215482012
+  },
+  "stakeholder_score_sic_weighted": 0.12368836069053799,
+  "swdc_status": "original scalar-SIC normalized implementation is structurally degenerate; full corrected criterion-specific mapping is not inferred here",
+  "weighted_cross_domain_sigma": 0.08979728470223819
+}

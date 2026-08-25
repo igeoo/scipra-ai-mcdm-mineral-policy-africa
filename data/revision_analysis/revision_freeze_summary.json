@@ -1,0 +1,45 @@
+{
+  "criterion_relevance_primary_delta_0_3_weights": {
+    "Community Infrastructure": 0.10918314363990872,
+    "Geological Feasibility": 0.14441172188715792,
+    "IRR": 0.1910802913566281,
+    "Local Employment": 0.17214040471446315,
+    "Market Stability": 0.14356900039793122,
+    "NPV": 0.23961543800391094
+  },
+  "criterion_relevance_recovered_records": 774,
+  "final_reconstructed_stance": {
+    "labelled": 807,
+    "pro_integration": 77,
+    "pro_integration_fraction": 0.09541511771995044,
+    "resistant": 730,
+    "resistant_fraction": 0.9045848822800495,
+    "unresolved": 69
+  },
+  "frozen_analysis_ready_records": 876,
+  "hash_manifest": "revision_freeze_hashes.json",
+  "historical_71_16_used_as_target": false,
+  "historical_corpus_exactly_recovered": false,
+  "historical_human_labels_recovered": false,
+  "historical_reported_distribution": {
+    "pro_integration": 71,
+    "pro_integration_fraction": 0.8160919540229885,
+    "resistant": 16
+  },
+  "maximum_possible_pro_fraction_with_all_grid_unresolved_pro": 0.2317351598173516,
+  "maximum_pro_fraction_across_adjudication_grid": 0.12960760998810938,
+  "original_swdc_status": "degenerate_common_scalar_cancels_exactly",
+  "replication_revision_boundary": "Revision outputs are downstream of and separate from the frozen reconstruction/post-freeze replication outputs.",
+  "revised_swdc_claim": "proposed corrected architecture, not recovered historical implementation",
+  "semantic_sensitivity": {
+    "employment_strict_local_employment_change_from_base": -0.0008825224676755894,
+    "finance_broad_IRR_change_from_base": -0.004019062755787478,
+    "finance_broad_NPV_change_from_base": 0.0014757526665793996,
+    "finance_broad_employment_strict_local_employment_change_from_base": -0.0021463087401175363,
+    "fresh_recovered_total": 773,
+    "max_abs_weight_difference_primary_vs_employment_strict": 0.022911141611664687,
+    "max_abs_weight_difference_primary_vs_finance_broad_strict": 0.024174927884106634,
+    "status": "sensitivity_only_does_not_replace_preregistered_primary"
+  },
+  "stage": "frozen_revision_analysis"
+}

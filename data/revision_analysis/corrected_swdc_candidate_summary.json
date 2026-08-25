@@ -1,0 +1,69 @@
+{
+  "base_weight_source_note": "Main text states Community Infrastructure base weight 0.10 but later narrative says 0.08->0.099; this candidate uses the normalized stated AHP vector with 0.10 and preserves the discrepancy as a source inconsistency.",
+  "candidate_formula": {
+    "adjusted_weight": "W0_j*(1+delta*G_j) / sum_k W0_k*(1+delta*G_k)",
+    "contention_s": "1 - P_s(pro-integration)",
+    "criterion_pressure_G_j": "sum_s pressure_s*A_sj / sum_s pressure_s",
+    "pressure_s": "SIC_s * contention_s"
+  },
+  "candidate_properties_verified": {
+    "nontrivial_relative_reweighting_if_criterion_pressures_differ": true,
+    "positive_weights_for_delta_ge_0": true,
+    "relative_ratio_identity_verified": true,
+    "returns_base_weights_at_delta_0": true,
+    "returns_base_weights_if_all_criterion_pressures_equal": true,
+    "weights_sum_to_one": true
+  },
+  "canonical_committed_group_probabilities_used_for_demonstration": {
+    "NGO": 0.05374463307852234,
+    "community": 0.18458192745818228,
+    "government": 0.05368961631150613,
+    "investor": 0.27393121219659106,
+    "labour": 0.04425123215482012
+  },
+  "effective_pressure_SIC_times_contention": {
+    "NGO": 0.6491311817081338,
+    "community": 0.6107481363338215,
+    "government": 0.6652561997330111,
+    "investor": 0.5590729666086248,
+    "labour": 0.7712892556510602
+  },
+  "empirical_requirement_before_claiming_revised_SCIPRA_results": "Estimate A_sj transparently via preregistered criterion-specific text coding or expert elicitation; do not use the illustrative matrix as empirical evidence.",
+  "illustrative_criterion_pressures": {
+    "Community Infrastructure": 0.7564892909125773,
+    "Geological Feasibility": 0.4708087938870808,
+    "IRR": 0.39869011894934325,
+    "Local Employment": 0.7661590580954055,
+    "Market Stability": 0.5428721705209834,
+    "NPV": 0.4089075457893621
+  },
+  "illustrative_delta_0_3_adjusted_weights": {
+    "Community Infrastructure": 0.1060109918634198,
+    "Geological Feasibility": 0.14790893780035763,
+    "IRR": 0.19347318658201162,
+    "Local Employment": 0.15939245823602224,
+    "Market Stability": 0.1507108356095795,
+    "NPV": 0.24250358990860932
+  },
+  "illustrative_matrix_status": "illustrative_not_empirical_not_for_substantive_policy_claims",
+  "monte_carlo_formal_stress": {
+    "delta": 0.3,
+    "max_sum_to_one_error": 4.440892098500626e-16,
+    "maximum_abs_change_from_base_seen": 0.023636088470720823,
+    "minimum_positive_weight_seen": 0.08868517130232105,
+    "nondegenerate_runs": 5000,
+    "random_relevance_matrices": 5000
+  },
+  "original_implemented_formula": "W0_j*(1+delta*SIC), then vector normalization",
+  "original_max_abs_weight_change_after_normalization_across_test_grid": 5.551115123125783e-17,
+  "original_structural_result": "degenerate_common_scalar_cancels_exactly",
+  "replication_revision_boundary": "This is a proposed SCIPRA revision, not a recovered historical implementation.",
+  "stage": "candidate_corrected_swdc_mathematical_audit",
+  "stakeholder_contention": {
+    "NGO": 0.9462553669214777,
+    "community": 0.8154180725418178,
+    "government": 0.9463103836884939,
+    "investor": 0.7260687878034089,
+    "labour": 0.9557487678451799
+  }
+}

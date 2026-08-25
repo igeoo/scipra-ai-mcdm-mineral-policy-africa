@@ -1,0 +1,19 @@
+{
+  "final_group_counts": {
+    "NGO": 32,
+    "community": 33,
+    "government": 320,
+    "investor": 147,
+    "labour": 244
+  },
+  "final_stakeholder_resolved_records": 776,
+  "final_stakeholder_unresolved_excluded_from_group_aggregation": 31,
+  "frozen_analysis_manifest_sha256": "cb280e4cb138b2f6bba48b24f0dcd7521c4cb821871846ceb70523a05a7acad5",
+  "historical_human_stakeholder_ledger_recovered": false,
+  "interpretation": "This is a conservative computational adjudication of dominant stakeholder voice. Unresolved cases remain eligible for stance-model evaluation but are excluded from stakeholder-group aggregation.",
+  "pass1_low_confidence_or_fallback_targets": 51,
+  "stage": "final_reconstructed_stakeholder_attribution",
+  "stance_labelled_records": 807,
+  "third_pass_resolved": 20,
+  "third_pass_text_unavailable": 0
+}

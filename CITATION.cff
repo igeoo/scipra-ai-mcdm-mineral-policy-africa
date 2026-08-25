@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite the associated manuscript and archived repository DOI."
+message: "If you use this computational repository, cite the archived software record and the associated publication when an approved publication version is available."
 title: "SCIPRA: Stakeholder-Centric Investment–Regulatory Policy Architecture"
 authors:
   - family-names: "Ige"
@@ -12,7 +12,7 @@ year: 2026
 version: "1.0.1"
 doi: "10.5281/zenodo.20068410"
 repository-code: "https://github.com/igeoo/scipra-ai-mcdm-mineral-policy-africa"
-abstract: "Reproducibility package for an AI-enhanced MCDM framework for mineral resource policy convergence in Africa."
+abstract: "Author-controlled computational reproducibility package for the SCIPRA AI-enhanced MCDM framework for mineral resource policy convergence in Africa."
 keywords:
   - stakeholder salience
   - policy convergence index
@@ -20,4 +20,5 @@ keywords:
   - natural language processing
   - support vector machine
   - mineral governance
+  - reproducibility
 license: "MIT"

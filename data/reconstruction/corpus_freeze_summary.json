@@ -1,0 +1,43 @@
+{
+  "corpus_name": "SCIPRA reconstructed replication corpus",
+  "corpus_frozen": true,
+  "freeze_scope": "membership_and_pre_model_analysis_ready_subset",
+  "reconstructed_corpus_records": 886,
+  "analysis_ready_records": 876,
+  "retained_non_analysis_ready_quality_exceptions": 10,
+  "historical_reported_corpus_size_benchmark_only": 87,
+  "historical_size_used_as_target_or_quota": false,
+  "period_start": "2010-01-01",
+  "period_end": "2023-12-31",
+  "title_trigger_media": {
+    "records": 690,
+    "included_pre_dedup": 547,
+    "excluded": 143,
+    "pending": 0,
+    "screening_complete": true
+  },
+  "secondary_keyword_media": {
+    "records": 1062,
+    "included_pre_dedup": 131,
+    "excluded": 931,
+    "pending": 0,
+    "screening_complete": true
+  },
+  "textwide_final_review": {
+    "candidate_pairs_ge_0_95": 7,
+    "explicit_duplicate_or_republication_collapses": 7,
+    "pending_pairs": 0,
+    "review_complete": true
+  },
+  "fresh_recovery_reconciliation": {
+    "current_live_recovery_gaps": 4,
+    "reconciled_to_prior_validated_extractions": 4,
+    "freshly_recovered_analysis_ready_records": 879,
+    "unreconciled": 0
+  },
+  "eiti_provenance_caveat": "The reported set of 13 South Africa EITI documents cannot presently be independently recovered or validated as described in the original corpus documentation.",
+  "stance_annotation_run_before_freeze": false,
+  "svm_or_other_classifier_run_before_freeze": false,
+  "mcdm_pci_rpci_run_before_freeze": false,
+  "important_note": "This freeze fixes corpus membership and identifies the analysis-ready subset before any stance annotation, classifier fitting, MCDM, PCI, or RPCI calculation. The historical N=87 is retained only as a reported benchmark and was not used as a target, quota, or stopping rule."
+}

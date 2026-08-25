@@ -5,3 +5,7 @@ __pycache__/
 .env
 venv/
 results/*.tmp
+
+# Keep unpublished manuscript/submission artifacts outside the reproducibility repository.
+SCIPRA_*.docx
+appendices/*.docx

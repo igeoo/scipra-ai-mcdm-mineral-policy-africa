@@ -1,0 +1,14 @@
+{
+  "scope": "broad_near_duplicate_review_after_safe_cross_phase_and_explicit_review",
+  "records_before_broad_review": 942,
+  "candidate_pairs_reviewed": 49,
+  "duplicate_or_republication_pairs_collapsed": 49,
+  "pair_local_hash_collision_flags_corrected": 4,
+  "records_retained_after_broad_review": 893,
+  "analysis_ready_records_after_broad_review": 883,
+  "retained_non_analysis_ready_records": 10,
+  "metadata_candidate_queue_fully_resolved": true,
+  "full_corpus_textwide_near_duplicate_audit_complete": false,
+  "corpus_frozen": false,
+  "important_note": "All 49 metadata-generated near-duplicate candidates were explicitly resolved using fresh text and source metadata. A final textwide audit of the retained analysis-ready corpus is still required to detect near duplicates with dissimilar titles before freeze."
+}

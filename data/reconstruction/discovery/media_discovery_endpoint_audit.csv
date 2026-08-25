@@ -1,0 +1,116 @@
+publisher,method,endpoint,http_status,response_kind,note
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/sitemap_index.xml,200,sitemapindex,locs=74 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/wp-sitemap.xml,404,not_xml,locs=0 ctype=text/html
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/sitemap.xml,404,not_xml,locs=0 ctype=text/html
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap1.xml,200,urlset,locs=2536 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap2.xml,200,urlset,locs=2000 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap3.xml,200,urlset,locs=2494 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap4.xml,200,urlset,locs=3800 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap5.xml,200,urlset,locs=3935 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap6.xml,200,urlset,locs=4000 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap7.xml,200,urlset,locs=3972 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap8.xml,200,urlset,locs=3998 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap9.xml,200,urlset,locs=3496 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap10.xml,200,urlset,locs=3408 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap11.xml,200,urlset,locs=3364 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap12.xml,200,urlset,locs=3246 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap13.xml,200,urlset,locs=3512 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap14.xml,200,urlset,locs=3560 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap15.xml,200,urlset,locs=3915 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap16.xml,200,urlset,locs=3713 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap17.xml,200,urlset,locs=3635 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap18.xml,200,urlset,locs=3668 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap19.xml,200,urlset,locs=3645 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap20.xml,200,urlset,locs=3680 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap21.xml,200,urlset,locs=3667 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap22.xml,200,urlset,locs=3650 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap23.xml,200,urlset,locs=3652 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap24.xml,200,urlset,locs=3685 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap25.xml,200,urlset,locs=3676 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap26.xml,200,urlset,locs=3722 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap27.xml,200,urlset,locs=3724 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap28.xml,200,urlset,locs=3725 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap29.xml,200,urlset,locs=3760 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap30.xml,200,urlset,locs=3756 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap31.xml,200,urlset,locs=3766 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap32.xml,200,urlset,locs=3762 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap33.xml,200,urlset,locs=3764 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap34.xml,200,urlset,locs=3767 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap35.xml,200,urlset,locs=3737 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap36.xml,200,urlset,locs=3729 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap37.xml,200,urlset,locs=3780 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap38.xml,200,urlset,locs=3782 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap39.xml,200,urlset,locs=3776 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap40.xml,200,urlset,locs=3750 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap41.xml,200,urlset,locs=3797 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap42.xml,200,urlset,locs=3827 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap43.xml,200,urlset,locs=3830 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap44.xml,200,urlset,locs=3841 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap45.xml,200,urlset,locs=3827 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap46.xml,200,urlset,locs=3855 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap47.xml,200,urlset,locs=3862 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap48.xml,200,urlset,locs=3832 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap49.xml,200,urlset,locs=3809 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap50.xml,200,urlset,locs=3846 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap51.xml,200,urlset,locs=3808 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap52.xml,200,urlset,locs=3842 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap53.xml,200,urlset,locs=3825 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap54.xml,200,urlset,locs=3824 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap55.xml,200,urlset,locs=3838 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap56.xml,200,urlset,locs=3836 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap57.xml,200,urlset,locs=3821 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap58.xml,200,urlset,locs=3825 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap59.xml,200,urlset,locs=3836 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap60.xml,200,urlset,locs=3842 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap61.xml,200,urlset,locs=3829 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap62.xml,200,urlset,locs=3849 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap63.xml,200,urlset,locs=3824 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap64.xml,200,urlset,locs=3813 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap65.xml,200,urlset,locs=3812 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap66.xml,200,urlset,locs=3784 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap67.xml,200,urlset,locs=3811 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap68.xml,200,urlset,locs=3748 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap69.xml,200,urlset,locs=3771 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap70.xml,200,urlset,locs=3812 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/article-sitemap71.xml,200,urlset,locs=2193 ctype=application/xml
+Daily Maverick,sitemap,https://www.dailymaverick.co.za/news-sitemap.xml,200,urlset,locs=14 ctype=application/xml
+Daily Maverick,search,https://www.dailymaverick.co.za/?s=marikana,200,html,bytes=326494
+Daily Maverick,search,https://www.dailymaverick.co.za/?s=lonmin,200,html,bytes=326492
+Mining Weekly,sitemap,https://www.miningweekly.com/sitemap.xml,200,sitemapindex,locs=29 ctype=text/xml; charset=utf-8
+Mining Weekly,sitemap,https://www.miningweekly.com/sitemap_index.xml,404,strong,locs=0 ctype=text/html; charset=UTF-8
+Mining Weekly,sitemap,https://www.miningweekly.com/sitemaps/sitemap-mining-weekly-news.xml,200,urlset,locs=93 ctype=application/xml
+Mining Weekly,search,https://www.miningweekly.com/search?query=marikana,404,html,bytes=17
+Mining Weekly,search,https://www.miningweekly.com/search?query=lonmin,404,html,bytes=17
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemap.xml,200,sitemapindex,locs=29 ctype=text/xml; charset=utf-8
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemap_index.xml,404,strong,locs=0 ctype=text/html; charset=UTF-8
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-recent.xml,200,urlset,locs=6691 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-news.xml,200,urlset,locs=0 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-topics.xml,200,urlset,locs=4655 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2026.xml,200,urlset,locs=23520 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2025.xml,200,urlset,locs=34990 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2024.xml,200,urlset,locs=34358 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2023.xml,200,urlset,locs=32676 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2022.xml,200,urlset,locs=32314 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2021.xml,200,urlset,locs=36082 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2020.xml,200,urlset,locs=41131 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2019.xml,200,urlset,locs=40739 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2018.xml,200,urlset,locs=39762 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2017.xml,200,urlset,locs=36792 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2016.xml,200,urlset,locs=41157 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2015.xml,200,urlset,locs=44102 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2014.xml,200,urlset,locs=44523 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2013.xml,200,urlset,locs=35122 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2012.xml,200,urlset,locs=601 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2011.xml,200,urlset,locs=193 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2010.xml,200,urlset,locs=174 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2009.xml,200,urlset,locs=101 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2008.xml,200,urlset,locs=123 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2007.xml,200,urlset,locs=109 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2006.xml,200,urlset,locs=20 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2005.xml,200,urlset,locs=13 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2004.xml,200,urlset,locs=12 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2003.xml,200,urlset,locs=10 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2002.xml,200,urlset,locs=12 ctype=application/xml
+Engineering News,sitemap,https://www.engineeringnews.co.za/sitemaps/sitemap-engineering-news-2001.xml,200,urlset,locs=3 ctype=application/xml
+Engineering News,search,https://www.engineeringnews.co.za/search?query=marikana,404,html,bytes=17
+Engineering News,search,https://www.engineeringnews.co.za/search?query=lonmin,404,html,bytes=17

@@ -1,0 +1,2 @@
+record_id,archive_queue,title,year,publication_date_from_url,publisher,url,retrieved_text_words,retrieved_text_sha256,text_hash_status,reason_code,decision_provenance
+DISC-MEDIA-0286,title_trigger,Marikana Were Tired Of Memorialising,2021,2021-08-17,Daily Maverick,https://www.dailymaverick.co.za/article/2021-08-17-marikana-were-tired-of-memorialising/,0,,missing_or_invalid_sha256,include_case_central,review_batch_04_source_specific_2026-08-23

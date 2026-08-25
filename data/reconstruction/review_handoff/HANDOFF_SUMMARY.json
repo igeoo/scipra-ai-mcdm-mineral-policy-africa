@@ -1,0 +1,19 @@
+{
+  "handoff_type": "SCIPRA frozen reconstructed replication corpus audit bundle",
+  "corpus_frozen": true,
+  "reconstructed_corpus_records": 886,
+  "analysis_ready_records": 876,
+  "retained_quality_exceptions": 10,
+  "historical_reported_n_87_role": "benchmark_only_not_target_quota_or_stopping_rule",
+  "period": "2010-01-01 to 2023-12-31",
+  "title_trigger_media_screening": "690/690 complete; 547 included pre-dedup; 143 excluded",
+  "secondary_media_screening": "1062/1062 complete; 131 included pre-dedup; 931 excluded",
+  "final_textwide_review": "7/7 >=0.95 pairs explicitly resolved as duplicate/republication collapses",
+  "current_live_recovery": "879/883 analysis-ready records freshly extracted; 4/883 reconciled to prior validated extractions",
+  "unresolved_screening_or_duplicate_decisions": 0,
+  "stance_annotation_performed": false,
+  "classifier_or_mcdm_run": false,
+  "eiti_provenance_caveat": "The reported set of 13 South Africa EITI documents cannot presently be independently recovered or validated as described in the original corpus documentation.",
+  "canonical_corpus_sha256": "f6f0652617fd0bedd94154e7b2b187ee5ff15ca0a3be19aadde8fbf93a2b91b0",
+  "analysis_ready_manifest_sha256": "cb280e4cb138b2f6bba48b24f0dcd7521c4cb821871846ceb70523a05a7acad5"
+}

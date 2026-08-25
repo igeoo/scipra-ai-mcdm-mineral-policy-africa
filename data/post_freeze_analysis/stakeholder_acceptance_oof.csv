@@ -1,0 +1,6 @@
+stakeholder_group,SIC,n_resolved,mean_oof_pro_integration_probability
+government,0.703,319,0.05368961631150613
+investor,0.77,147,0.27393121219659106
+community,0.749,33,0.18458192745818228
+labour,0.807,244,0.04425123215482012
+NGO,0.686,32,0.05374463307852234

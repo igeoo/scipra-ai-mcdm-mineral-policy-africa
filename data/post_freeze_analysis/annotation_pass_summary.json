@@ -1,0 +1,38 @@
+{
+  "computational_readings_agreement_rate_on_recovered_text": 0.8900343642611683,
+  "draft_label_counts": {
+    "0": 672,
+    "1": 63
+  },
+  "draft_labels_assigned_total": 735,
+  "frozen_analysis_manifest_sha256": "cb280e4cb138b2f6bba48b24f0dcd7521c4cb821871846ceb70523a05a7acad5",
+  "frozen_analysis_ready_records": 876,
+  "historical_71_16_distribution_used_as_target": false,
+  "human_annotation_claim": false,
+  "important_limitation": "These are reconstructed computational annotations applying the documented B.4.2 criteria. They do not reproduce the unavailable historical two-human-annotator labels. The review queue overlaps the labeled set for 48 records whose stance was assigned but stakeholder attribution remains low-confidence.",
+  "labeled_but_in_stakeholder_review_queue": 48,
+  "labeled_not_in_review_queue": 687,
+  "legacy_svm_labels_used": false,
+  "model_fitting_performed": false,
+  "reconciliation": {
+    "counts_are_disjoint_only_within_the_explicit_partition_above": true,
+    "full_frozen_partition": "687 + 48 + 138 + 3 unavailable = 876",
+    "recovered_text_partition": "687 labeled/no-review + 48 labeled/stakeholder-review + 138 unlabeled/stance-review = 873",
+    "review_queue_partition": "48 labeled/stakeholder-review + 138 unlabeled/stance-review + 3 unavailable = 189"
+  },
+  "review_queue_overlap_with_labeled_records": 48,
+  "review_queue_records_total": 189,
+  "review_queue_recovered_records": 186,
+  "stage": "post_freeze_computational_reannotation_pass_1_reconciled",
+  "stakeholder_proxy_counts_recovered": {
+    "NGO": 33,
+    "community": 43,
+    "government": 339,
+    "investor": 189,
+    "labour": 269
+  },
+  "text_unavailable_records_in_review_queue": 3,
+  "texts_recovered_for_execution": 873,
+  "texts_unavailable_at_execution": 3,
+  "unlabeled_recovered_records_in_stance_review_queue": 138
+}

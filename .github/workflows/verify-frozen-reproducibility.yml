@@ -1,0 +1,35 @@
+name: Verify frozen SCIPRA reproducibility package
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Verify frozen hashes and invariants
+        run: python code/verify_frozen_reproducibility.py
+
+      - name: Confirm unpublished manuscript artifacts are absent
+        shell: bash
+        run: |
+          set -euo pipefail
+          forbidden="$(git ls-files | grep -E '(^SCIPRA_.*\.docx$|^appendices/.*\.docx$)' || true)"
+          if [ -n "$forbidden" ]; then
+            echo "Unpublished manuscript/submission artifacts are tracked:"
+            echo "$forbidden"
+            exit 1
+          fi

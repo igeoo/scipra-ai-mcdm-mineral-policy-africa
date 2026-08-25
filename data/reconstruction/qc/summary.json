@@ -1,0 +1,22 @@
+{
+  "candidate_records_processed": 1056,
+  "acquired_extracted_records": 1047,
+  "acquisition_exception_records": 9,
+  "exact_duplicate_clusters": 98,
+  "exact_duplicate_redundant_records": 113,
+  "unique_extracted_texts_after_exact_dedup_before_manual_exclusions": 934,
+  "prospective_manual_exclusions_applied": 2,
+  "preliminary_corpus_records_after_exact_dedup_and_prospective_exclusions": 932,
+  "same_title_year_clusters_requiring_review": 37,
+  "same_url_clusters_requiring_review": 5,
+  "near_duplicate_pairs_flagged_at_similarity_ge_0_95": 62,
+  "status_counts": {
+    "acquired_extracted": 1047,
+    "acquired_no_text": 6,
+    "acquired_low_text": 2,
+    "failed": 1
+  },
+  "near_duplicate_threshold": 0.95,
+  "corpus_frozen": false,
+  "note": "Preliminary QC only. Corpus freeze requires resolution of acquisition exceptions, same-title/URL and near-duplicate reviews, substantive relevance/text-quality screening, and documented source-family saturation."
+}
